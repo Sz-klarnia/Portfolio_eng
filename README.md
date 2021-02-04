@@ -22,5 +22,3 @@ I started learning Data Science in September 2020. I discovered, that this field
 * I analysed the data to find out if fires are getting bigger, more intense and more frequent over the years
 * I prepared various visualisations of fire distributon around the US
 * Using GridSearchCV and RandomizedSearchCV to optimalize classification models to predict the cause of the fire based on fire size, location and date of discovery. Model achieved high recall, meaning that it identifies most of existing fires from each class and can be used to predict wether a fire was caused by human negligence or arson and investigate it further.
-
-![alt text](https://github.com/Sz-klarnia/Piotr-Szymczak---Portfolio/blob/main/us_plot.png "Wykres 1")
