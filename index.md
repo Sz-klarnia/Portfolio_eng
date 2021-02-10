@@ -17,7 +17,7 @@ I started learning Data Science in September 2020. I discovered, that this field
 * Using NLTK and Spacy I lemmatized the texts, created word clouds and collocations lists for each newscaster
 * Using GridSearchCV and RandomizedSearchCV i optimalized various classification models (LogisticRegression, DecisionTree, RandomForest, SVM and XGBoost) to classify the articles as "hostile" or "friendly" towards LGBT+ community
 
-## Project 3: [20 years of US Wildfires](https://github.com/Sz-klarnia/NLP---Press-coverage-of-LBGT-issues)
+## Project 3: [20 years of US Wildfires](https://github.com/Sz-klarnia/US_Wildfires)
 
 * I analysed the data to find out if fires are getting bigger, more intense and more frequent over the years
 * I prepared various visualisations of fire distributon around the US
